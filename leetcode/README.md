@@ -71,3 +71,7 @@
 - current = i
 - i = len - 1 - i
 - len - 1 - i = current
+
+3. **557. 反转字符串中的单词 III** (20 天「算法」刷题计划)
+- 记录current直到遇到空格
+- 翻转加入当前的到result
