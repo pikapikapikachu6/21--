@@ -208,3 +208,7 @@ s
 - add = current / numExchange
 - sum = sum + add
 - current = current / numExchange + current % numExchange
+
+2. **剑指 Offer 06. 从尾到头打印链表** (剑指 Offer)
+- 求长度
+- 反向放在list里
