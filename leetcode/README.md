@@ -212,3 +212,10 @@ s
 2. **剑指 Offer 06. 从尾到头打印链表** (剑指 Offer)
 - 求长度
 - 反向放在list里
+
+3. **剑指 Offer 24. 反转链表** (剑指 Offer)
+- current next prv
+- next = current.next
+- current.next = prev
+- prev = current
+- current = next
