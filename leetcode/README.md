@@ -202,3 +202,9 @@ s
 
 3. **剑指 Offer 30. 包含min函数的栈** (剑指 Offer)
 - 两个stack
+
+## 2021-12-17
+1. **1518. 换酒问题** (每日一题)
+- add = current / numExchange
+- sum = sum + add
+- current = current / numExchange + current % numExchange
