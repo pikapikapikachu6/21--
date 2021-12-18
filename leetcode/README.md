@@ -231,3 +231,7 @@ s
 
 3. **剑指 Offer 05. 替换空格** (剑指 Offer)
 - replace
+
+4. **剑指 Offer 58 - II. 左旋转字符串** (剑指 Offer)
+- 遍历n-len
+- 遍历0-n-1
