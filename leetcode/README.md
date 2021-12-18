@@ -228,3 +228,6 @@ s
 - 回溯
 - HashMap
 - copy当前的 然后copy下一个 然后copy random
+
+3. **剑指 Offer 05. 替换空格** (剑指 Offer)
+- replace
