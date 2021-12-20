@@ -249,3 +249,7 @@ s
 2. **剑指 Offer 03. 数组中重复的数字** (剑指 Offer)
 - hashmap记录key
 - 有重复就输出
+
+3. **剑指 Offer 53 - I. 在排序数组中查找数字 I** (剑指 Offer)
+- = target -> +1
+- 大于 return
